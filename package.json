@@ -1,5 +1,5 @@
 {
-  "name": "redis",
+  "name": "learn-redis",
   "version": "1.0.0",
   "description": "Redis playground",
   "main": "index.js",
@@ -15,5 +15,10 @@
   "bugs": {
     "url": "https://github.com/besarthoxhaj/redis/issues"
   },
-  "homepage": "https://github.com/besarthoxhaj/redis#readme"
+  "homepage": "https://github.com/besarthoxhaj/redis#readme",
+  "dependencies": {
+    "bluebird": "^3.3.3",
+    "hiredis": "^0.4.1",
+    "redis": "^2.4.2"
+  }
 }
