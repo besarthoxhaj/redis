@@ -1,0 +1,19 @@
+{
+  "name": "redis",
+  "version": "1.0.0",
+  "description": "Redis playground",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/besarthoxhaj/redis.git"
+  },
+  "author": "Bes",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/besarthoxhaj/redis/issues"
+  },
+  "homepage": "https://github.com/besarthoxhaj/redis#readme"
+}
